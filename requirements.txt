@@ -1,0 +1,5 @@
+gradio==5.49.1
+numpy==1.26.4
+Pillow
+torch
+ultralytics

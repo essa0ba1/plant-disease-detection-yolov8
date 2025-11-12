@@ -1,0 +1,48 @@
+# Model files (usually too large for git)
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# Output files
+output.png
+*.jpg
+*.jpeg
+*.png
+!images.jpeg  # Keep sample images if needed
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+runs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
