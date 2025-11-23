@@ -1,6 +1,9 @@
 # Plant Disease Detection using YOLOv8
 
 A deep learning-based plant disease detection system that uses YOLOv8 to identify and classify diseases in various plant leaves. The application provides interactive web interfaces built with both Streamlit and Gradio for easy image upload and disease analysis.
+## Dataset source 
+- [Plant Disease Detection (Roboflow, YOLOv8)]([https://universe.roboflow.com/smart-farmer/plant-disease-detection-3](https://universe.roboflow.com/graduation-project-2023/plants-diseases-detection-and-classification))
+
 
 ## 🌱 Features
 
